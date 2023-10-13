@@ -26,6 +26,7 @@ Exemplificação de Flexbox
 .
 ├── README.md
 ├── index.html
+├── script.js
 └── style.css
 ```
 
